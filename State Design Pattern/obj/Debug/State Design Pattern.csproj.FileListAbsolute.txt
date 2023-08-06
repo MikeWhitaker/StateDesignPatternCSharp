@@ -1,0 +1,20 @@
+C:\Data\Repos\State Design Pattern\State Design Pattern\bin\Debug\State Design Pattern.exe.config
+C:\Data\Repos\State Design Pattern\State Design Pattern\bin\Debug\State Design Pattern.exe
+C:\Data\Repos\State Design Pattern\State Design Pattern\bin\Debug\State Design Pattern.pdb
+C:\Data\Repos\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern.csproj.AssemblyReference.cache
+C:\Data\Repos\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern.csproj.SuggestedBindingRedirects.cache
+C:\Data\Repos\State Design Pattern\State Design Pattern\obj\Debug\UI\EntryPage.g.cs
+C:\Data\Repos\State Design Pattern\State Design Pattern\obj\Debug\UI\MainWindow.g.cs
+C:\Data\Repos\State Design Pattern\State Design Pattern\obj\Debug\UI\StatusPage.g.cs
+C:\Data\Repos\State Design Pattern\State Design Pattern\obj\Debug\App.g.cs
+C:\Data\Repos\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern_MarkupCompile.cache
+C:\Data\Repos\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern_MarkupCompile.lref
+C:\Data\Repos\State Design Pattern\State Design Pattern\obj\Debug\UI\EntryPage.baml
+C:\Data\Repos\State Design Pattern\State Design Pattern\obj\Debug\UI\MainWindow.baml
+C:\Data\Repos\State Design Pattern\State Design Pattern\obj\Debug\UI\StatusPage.baml
+C:\Data\Repos\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern.g.resources
+C:\Data\Repos\State Design Pattern\State Design Pattern\obj\Debug\State_Design_Pattern.Properties.Resources.resources
+C:\Data\Repos\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern.csproj.GenerateResource.cache
+C:\Data\Repos\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern.csproj.CoreCompileInputs.cache
+C:\Data\Repos\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern.exe
+C:\Data\Repos\State Design Pattern\State Design Pattern\obj\Debug\State Design Pattern.pdb
